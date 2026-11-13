@@ -8,7 +8,7 @@ Currently looking for a **Werkstudent role in AI/ML** in the Nuremberg/Erlangen 
 
 - **LLM applications:** agents with function calling, retrieval-augmented generation (RAG)
 - **Scientific computing:** numerical simulation and algorithm design in Python
-- **Full-stack web:** React, React Native, Node.js, SQL
+- **Web development:** JavaScript, React, Node.js, PHP, SQL
 
 ## Featured projects
 
@@ -17,6 +17,7 @@ Currently looking for a **Werkstudent role in AI/ML** in the Nuremberg/Erlangen 
 | [career-agent-chatbot](https://github.com/youngjulesverne/career-agent-chatbot) | LLM agent with OpenAI function calling, a SQLite answer cache and self-evaluation |
 | [lorenz-periodic-orbits](https://github.com/youngjulesverne/lorenz-periodic-orbits) | B.Sc. thesis: detecting unstable periodic orbits in a chaotic system with symbolic dynamics |
 | [CUBCompass](https://github.com/youngjulesverne/CUBCompass) | Database-driven web app, built as a 3-person team I led |
+| [TaskUp](https://github.com/youngjulesverne/Project-Management-System) | Project management system built by a 10-person team (FastAPI, Next.js); I built the auth frontend |
 
 ## Tech
 
