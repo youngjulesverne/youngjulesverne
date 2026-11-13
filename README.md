@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Rafael 👋
 
-<!--
-**youngjulesverne/youngjulesverne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. Data Science student at **FAU Erlangen-Nürnberg**, focusing on AI and machine learning. B.Sc. in Computer Science from Constructor University Bremen, with a specialization in AI, computer vision and robotics.
 
-Here are some ideas to get you started:
+Currently looking for a **Werkstudent role in AI/ML** in the Nuremberg/Erlangen area.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work on
+
+- **LLM applications:** agents with function calling, retrieval-augmented generation (RAG)
+- **Scientific computing:** numerical simulation and algorithm design in Python
+- **Full-stack web:** React, React Native, Node.js, SQL
+
+## Featured projects
+
+| Project | What it is |
+|---|---|
+| [career-agent-chatbot](https://github.com/youngjulesverne/career-agent-chatbot) | LLM agent with OpenAI function calling, a SQLite answer cache and self-evaluation |
+| [lorenz-periodic-orbits](https://github.com/youngjulesverne/lorenz-periodic-orbits) | B.Sc. thesis: detecting unstable periodic orbits in a chaotic system with symbolic dynamics |
+| [CUBCompass](https://github.com/youngjulesverne/CUBCompass) | Database-driven web app, built as a 3-person team I led |
+
+## Tech
+
+Python · NumPy · SciPy · pandas · OpenAI API · ChromaDB · Gradio · JavaScript · React · Node.js · MySQL · SQLite · Git
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/rafaelhasanov-230b0b24b) · Languages: English, German, Russian, Azerbaijani, Turkish
