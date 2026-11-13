@@ -24,4 +24,4 @@ Python · NumPy · SciPy · pandas · OpenAI API · ChromaDB · Gradio · JavaSc
 
 ## Contact
 
-[LinkedIn](www.linkedin.com/in/rafael-hasanov-230b0b24b) · Languages: English, German, Russian, Azerbaijani, Turkish
+[LinkedIn](https://www.linkedin.com/in/rafael-hasanov-230b0b24b) · Languages: English, German, Russian, Azerbaijani, Turkish
